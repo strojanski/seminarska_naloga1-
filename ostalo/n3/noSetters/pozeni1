@@ -1,0 +1,20 @@
+javac Naloga3.java && time java Naloga3 ../I3_1.txt izhodi/izhod1
+echo 1
+javac Naloga3.java && time java Naloga3 ../I3_2.txt izhodi/izhod2
+echo 2
+javac Naloga3.java && time java Naloga3 ../I3_3.txt izhodi/izhod3
+echo 3
+javac Naloga3.java && time java Naloga3 ../I3_4.txt izhodi/izhod4
+echo 4
+javac Naloga3.java && time java Naloga3 ../I3_5.txt izhodi/izhod5
+echo 5
+javac Naloga3.java && time java Naloga3 ../I3_6.txt izhodi/izhod6
+echo 6
+javac Naloga3.java && time java Naloga3 ../I3_7.txt izhodi/izhod7
+echo 7
+javac Naloga3.java && time java Naloga3 ../I3_8.txt izhodi/izhod8
+echo 8
+javac Naloga3.java && time java Naloga3 ../I3_9.txt izhodi/izhod9
+echo 9
+javac Naloga3.java && time java Naloga3 ../I3_10.txt izhodi/izhod10
+echo 10

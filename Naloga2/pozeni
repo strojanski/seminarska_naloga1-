@@ -1,0 +1,10 @@
+javac Naloga2.java && time java Naloga2 I1_1.txt izhodi/izhod1
+javac Naloga2.java && time java Naloga2 I1_2.txt izhodi/izhod2
+javac Naloga2.java && time java Naloga2 I1_3.txt izhodi/izhod3
+javac Naloga2.java && time java Naloga2 I1_4.txt izhodi/izhod4
+javac Naloga2.java && time java Naloga2 I1_5.txt izhodi/izhod5
+javac Naloga2.java && time java Naloga2 I1_6.txt izhodi/izhod6
+javac Naloga2.java && time java Naloga2 I1_7.txt izhodi/izhod7
+javac Naloga2.java && time java Naloga2 I1_8.txt izhodi/izhod8
+javac Naloga2.java && time java Naloga2 I1_9.txt izhodi/izhod9
+javac Naloga2.java && time java Naloga2 I1_10.txt izhodi/izhod10

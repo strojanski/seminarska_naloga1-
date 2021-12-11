@@ -1,0 +1,21 @@
+cp O3_1.txt izhodi1/izhod1.txt
+cp O3_2.txt izhodi1/izhod2.txt
+cp O3_3.txt izhodi1/izhod3.txt
+cp O3_4.txt izhodi1/izhod4.txt
+cp O3_5.txt izhodi1/izhod5.txt
+cp O3_6.txt izhodi1/izhod6.txt
+cp O3_7.txt izhodi1/izhod7.txt
+cp O3_8.txt izhodi1/izhod8.txt
+cp O3_9.txt izhodi1/izhod9.txt
+cp O3_10.txt izhodi1/izhod10.txt
+
+cp I3_1.txt vhodi/vhod1.txt
+cp I3_2.txt vhodi/vhod2.txt
+cp I3_3.txt vhodi/vhod3.txt
+cp I3_4.txt vhodi/vhod4.txt
+cp I3_5.txt vhodi/vhod5.txt
+cp I3_6.txt vhodi/vhod6.txt
+cp I3_7.txt vhodi/vhod7.txt
+cp I3_8.txt vhodi/vhod8.txt
+cp I3_9.txt vhodi/vhod9.txt
+cp I3_10.txt vhodi/vhod10.txt

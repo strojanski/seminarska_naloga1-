@@ -1,0 +1,99 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Naloga3",
+            "request": "launch",
+            "mainClass": "Naloga3",
+            "projectName": "prva_seminarska_268a31e9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binarno",
+            "request": "launch",
+            "mainClass": "Binarno"
+        },
+        {
+            "type": "java",
+            "name": "Launch GlavniProgram",
+            "request": "launch",
+            "mainClass": "GlavniProgram"
+        },
+        {
+            "type": "java",
+            "name": "Launch Izrazi",
+            "request": "launch",
+            "mainClass": "Izrazi"
+        },
+        {
+            "type": "java",
+            "name": "Launch JePotenca",
+            "request": "launch",
+            "mainClass": "JePotenca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Labirint",
+            "request": "launch",
+            "mainClass": "Labirint"
+        },
+        {
+            "type": "java",
+            "name": "Launch NajkrajsaPot",
+            "request": "launch",
+            "mainClass": "NajkrajsaPot"
+        },
+        {
+            "type": "java",
+            "name": "Launch Oklepaji",
+            "request": "launch",
+            "mainClass": "Oklepaji"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrom",
+            "request": "launch",
+            "mainClass": "Palindrom"
+        },
+        {
+            "type": "java",
+            "name": "Launch Postfix",
+            "request": "launch",
+            "mainClass": "Postfix"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sudoku",
+            "request": "launch",
+            "mainClass": "Sudoku"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vsota",
+            "request": "launch",
+            "mainClass": "Vsota"
+        },
+        {
+            "type": "java",
+            "name": "Launch Znesek",
+            "request": "launch",
+            "mainClass": "Znesek"
+        },
+        {
+            "type": "java",
+            "name": "Launch p1_permutacije",
+            "request": "launch",
+            "mainClass": "p1_permutacije"
+        }
+    ]
+}
